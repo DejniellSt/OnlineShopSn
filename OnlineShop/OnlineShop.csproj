@@ -28,4 +28,49 @@
     <Folder Include="Models\Db\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\style" />
+    <None Include="wwwroot\assets\css\style.css.map" />
+    <None Include="wwwroot\assets\css\style.map" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\assets\fonts\ionicons.svg" />
+    <None Include="wwwroot\assets\fonts\Simple-Line-Icons.svg" />
+    <None Include="wwwroot\assets\fonts\Simple-Line-Icons.woff2" />
+    <None Include="wwwroot\assets\js\images-loaded.min.js" />
+    <None Include="wwwroot\assets\js\isotope.pkgd.min.js" />
+    <None Include="wwwroot\assets\js\jquery-ui.min.js" />
+    <None Include="wwwroot\assets\js\jquery.instagramFeed.min.js" />
+    <None Include="wwwroot\assets\js\jquery.magnific-popup.min.js" />
+    <None Include="wwwroot\assets\js\jquery.nice-select.js" />
+    <None Include="wwwroot\assets\js\jquery.scrollup.min.js" />
+    <None Include="wwwroot\assets\js\mailchimp-ajax.js" />
+    <None Include="wwwroot\assets\js\main.js" />
+    <None Include="wwwroot\assets\js\slick.min.js" />
+    <None Include="wwwroot\assets\js\tippy-bundle.umd.js" />
+    <None Include="wwwroot\assets\js\vendor\bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\vendor\jquery-3.4.1.min.js" />
+    <None Include="wwwroot\assets\js\vendor\modernizr-3.7.1.min.js" />
+    <None Include="wwwroot\assets\js\vendor\popper.js" />
+    <None Include="wwwroot\assets\js\vendor\vendor.min.js" />
+    <None Include="wwwroot\assets\js\wow.min.js" />
+    <None Include="wwwroot\assets\mail.php" />
+    <None Include="wwwroot\assets\scss\section\_banner.scss" />
+    <None Include="wwwroot\assets\scss\section\_blog-details.scss" />
+    <None Include="wwwroot\assets\scss\section\_blog.scss" />
+    <None Include="wwwroot\assets\scss\section\_cart-page.scss" />
+    <None Include="wwwroot\assets\scss\section\_checkout.scss" />
+    <None Include="wwwroot\assets\scss\section\_footer.scss" />
+    <None Include="wwwroot\assets\scss\section\_header.scss" />
+    <None Include="wwwroot\assets\scss\section\_other.scss" />
+    <None Include="wwwroot\assets\scss\section\_product-details.scss" />
+    <None Include="wwwroot\assets\scss\section\_product.scss" />
+    <None Include="wwwroot\assets\scss\section\_quick-view.scss" />
+    <None Include="wwwroot\assets\scss\section\_shop.scss" />
+    <None Include="wwwroot\assets\scss\section\_slider.scss" />
+    <None Include="wwwroot\assets\scss\style.scss" />
+    <None Include="wwwroot\assets\scss\_common.scss" />
+    <None Include="wwwroot\assets\scss\_variabls.scss" />
+  </ItemGroup>
+
 </Project>
