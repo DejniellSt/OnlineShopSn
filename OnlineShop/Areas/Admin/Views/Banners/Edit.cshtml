@@ -27,8 +27,7 @@
                 <label asp-for="ImageName" class="control-label"></label>
                 @* <input asp-for="ImageName" class="form-control" /> *@
                 <input type="file" asp-for="ImageName" class="form-control" />
-                <span asp-validation-for="ImageName" class="text-danger"></span>
-            </div>
+                <img class="img-thumbnail" src ="/images/banners/@Model.ImageName"
             <div class="form-group">
                 <label asp-for="Priority" class="control-label"></label>
                 <input asp-for="Priority" class="form-control" />
